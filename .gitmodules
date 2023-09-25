@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "Euclimatch"]
 	path = Euclimatch
-	url = https://github.com/cran/Euclimatch
+	url = https://github.com/justinhubbard/euclimatch
